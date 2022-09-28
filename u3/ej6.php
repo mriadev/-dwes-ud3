@@ -10,3 +10,4 @@
 
 
 ?>
+<a href="https://github.com/mriadev/-dwes-ud3/blob/main/u3/ej6.php" target="_blank">GitHub Ejercicio2</a>
